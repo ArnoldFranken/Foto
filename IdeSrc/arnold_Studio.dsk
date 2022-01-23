@@ -1,0 +1,61 @@
+[Workspace]
+CurrentProject=Foto.src
+Location=C:\DataFlex Projects\Foto\IdeSrc\arnold_Studio.dsk
+CreateNew=1
+[TabWindows]
+GroupCount=1
+HorizontalGroups=0
+[TabGroup0]
+GroupSize=40
+SelectedTab=3
+[Window0]
+Filename=Workspace Dashboard
+ViewType=101
+Top=21
+Left=0
+Bottom=652
+Right=1327
+TabIndex=0
+TabGroup=0
+[Window1]
+Filename=C:\DataFlex Projects\Foto\AppSrc\Foto.src
+ViewType=2
+Top=21
+Left=0
+Bottom=652
+Right=1327
+TabIndex=1
+TabGroup=0
+[Window2]
+Filename=C:\Program Files\DataFlex 20.0\Pkg\seq_chnl.pkg
+ViewType=1
+Top=21
+Left=0
+Bottom=652
+Right=1327
+CursorLine=92
+CursorColumn=0
+TabIndex=2
+TabGroup=0
+[Window3]
+Filename=C:\DataFlex Projects\Foto\AppSrc\ScanFoto.vw
+ViewType=1
+Top=21
+Left=0
+Bottom=652
+Right=1327
+CursorLine=67
+CursorColumn=34
+TabIndex=4
+TabGroup=0
+[Window4]
+Filename=C:\DataFlex Projects\Foto\AppSrc\HernummerenFoto.vw
+ViewType=1
+Top=21
+Left=0
+Bottom=652
+Right=1327
+CursorLine=24
+CursorColumn=34
+TabIndex=3
+TabGroup=0

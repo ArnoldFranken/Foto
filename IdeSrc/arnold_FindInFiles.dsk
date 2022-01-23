@@ -1,0 +1,13 @@
+[Header]
+Mask=*.src;*.vw;*.sl;*.dg;*.rv;*.bp;*.pkg;*.wo;*.dd;*.inc;*.tpl;*.dfo;*.asp;*.asa;*.html;*.css;*.js
+Active=0
+SubDirectories=1
+WholeWordOnly=0
+SearchWhere=0
+Location=C:\DataFlex Projects\Foto\IdeSrc\arnold_FindInFiles.dsk
+[C:\DataFlex Projects\Foto\AppSrc]
+IsEnabled=1
+[C:\DataFlex Projects\Foto\DDSrc]
+IsEnabled=1
+[C:\DataFlex Projects\Foto\AppHtml]
+IsEnabled=1

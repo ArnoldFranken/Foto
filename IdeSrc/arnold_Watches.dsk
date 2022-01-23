@@ -1,0 +1,2 @@
+[Foto.src]
+0="("DIR:" + sLocatie + "\" + sAlbum + "\*.jpg")"
